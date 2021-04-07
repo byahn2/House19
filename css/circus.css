@@ -67,10 +67,30 @@ table {
   vertical-align: center;
 }
 
-.caption {
+h1 {
+  display: block;
+  width: 1000px;
+  padding: 1%;
+  margin: 1%;
+  border: 5px solid blue;
+}
+
+p {
   display: block;
   width: 1000px;
   padding: 1%;
   margin: 1% auto;
   border: 5px solid blue;
+}
+
+h1 {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 200;
 }

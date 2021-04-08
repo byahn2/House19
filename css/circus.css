@@ -74,6 +74,8 @@ table {
   display: block;
   max-width: 100%;
   max-height: 100%;
+  margin-left: auto;
+  margin-right: auto;
   vertical-align: center;
 }
 
@@ -102,7 +104,7 @@ h1 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 20px;
   font-weight: 200;
 }
@@ -124,12 +126,12 @@ p {
   font-size: 20px;
   background-color: #93B7FF;
   color: white;
-  border: 5px solid #7AC583;
+  border: 5px solid #93B7FF;
 }
 
 .btn:hover, .btn:active{
   font-size: 25px;
-  background-color: #A4F3AE;
-  border: 5px solid #A4F3AE; 
+  background-color: #93B7FF;
+  border: 5px solid #93B7FF; 
   color: white;
 }

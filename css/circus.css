@@ -62,30 +62,31 @@ table {
 
 .photo img{
   display: block;
-  width: 1000px;
+  max-width: 80%;
+  max-height: 80%;
   float: left;
   vertical-align: center;
 }
 
 h1 {
   display: block;
-  width: 1000px;
+  width: 70%;
   padding: 1%;
-  margin: 1%;
+  margin: 1% auto;
   border: 5px solid blue;
 }
 
 p {
   display: block;
-  width: 1000px;
+  width: 70%;
   padding: 1%;
   margin: 1% auto;
   border: 5px solid blue;
 }
 
 h1 {
-  font-size: 18px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 50px;
   font-weight: 600;
 }
 

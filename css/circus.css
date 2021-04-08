@@ -64,7 +64,7 @@ table {
   display: block;
   max-width: 80%;
   max-height: 80%;
-  float: left;
+  margin: 1% auto;
   vertical-align: center;
 }
 

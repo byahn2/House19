@@ -63,6 +63,13 @@ table {
 html {
   font-family:'Verenda', Arial, sans-serif;
   background-color: #132C5D;
+}
+
+.map {
+  display: block;
+  margin: 1% auto;
+  width: 1400px;
+  height: 787px;
   background-image: url("content/map2_300.jpg");
   background-size: 1400px 787px;
   background-position: 10px 10px;

@@ -80,7 +80,6 @@ header {
 .photo {
   display: inline-block;
   width: 30%;
-  vertical-align: center;
   border: 5px solid #93B7FF;
 }
 
@@ -95,9 +94,9 @@ header {
 .description {
   display: inline-block;
   width: 30%;
-  margin-left: 1%;
-  vertical-align: center;
+  margin: 1%;
   border: 5px solid #93B7FF;
+  float: right;
 }
 
 header {

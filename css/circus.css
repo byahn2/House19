@@ -79,7 +79,7 @@ header {
 
 .photo {
   displaly: inline-block;
-  width: 66%;
+  width: 65%;
   vertical-align: center;
 }
 
@@ -96,8 +96,6 @@ description {
   width: 30%;
   margin-left: 1%;
   vertical-align: center;
-  border: 5px solid #93B7FF;
-  border-radius: 5px;
 }
 
 .name {

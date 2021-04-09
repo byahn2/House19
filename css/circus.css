@@ -73,13 +73,13 @@ header {
   display: block;
   margin: 1%;
   padding: 1%;
-  width: 100%;
+  width: 90%;
   border: 5px solid #93B7FF;
 }
 
 .photo {
   displaly: inline-block;
-  width: 65%;
+  width: 60%;
   vertical-align: center;
 }
 

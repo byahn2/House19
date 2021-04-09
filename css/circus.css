@@ -72,13 +72,14 @@ header {
 .content {
   display: block;
   margin: 1%;
+  padding: 1%;
   width: 90%;
   border: 5px solid #93B7FF;
 }
 
 .photo {
-  displaly: inline-block;
-  width: 40%;
+  display: inline-block;
+  width: 30%;
   vertical-align: center;
   border: 5px solid #93B7FF;
 }
@@ -110,31 +111,4 @@ header {
   font-size: 18px;
   line-height: 30px;
   font-weight: 300;
-}
-
-.btn {
-  display: block;
-  width: 20%;
-  margin: 1% auto;
-  text-align: center;
-  font-size: 20px;
-  text-decoration: none;
-  background-color: #93B7FF;
-  color: white;
-  border: 5px solid #93B7FF; 
-  border-radius: 5px;
- }
-
-.btn:link, .btn:visited {
-  font-size: 20px;
-  background-color: #93B7FF;
-  color: white;
-  border: 5px solid #93B7FF;
-}
-
-.btn:hover, .btn:active{
-  font-size: 25px;
-  background-color: #93B7FF;
-  border: 5px solid #93B7FF; 
-  color: white;
 }

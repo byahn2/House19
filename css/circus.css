@@ -78,7 +78,7 @@ header {
 
 .photo {
   displaly: inline-block;
-  width: 50%;
+  width: 40%;
   vertical-align: center;
 }
 
@@ -95,6 +95,7 @@ description {
   width: 30%;
   margin-left: 1%;
   vertical-align: center;
+  float: right;
 }
 
 header {

@@ -76,7 +76,7 @@ header {
 
 .photo {
   display: inline-block;
-  width: 55%;
+  width: 45%;
 }
 
 .picture img{
@@ -89,7 +89,7 @@ header {
 
 .description {
   display: inline-block;
-  width: 40%;
+  width: 50%;
   margin-left: 1%;
   float: right;
 }

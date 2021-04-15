@@ -78,7 +78,7 @@ html {
 .one {  
   display: block;
   width: 1400px;
-  height: 80px;
+  height: 60px;
   margin:0;
   border: 1px solid green;
   padding:0;
@@ -86,7 +86,7 @@ html {
 .one_five {
   display: block;
   width: 1400px;
-  height: 120px;
+  height: 90px;
   margin:0;
   border:0;
   padding:0;
@@ -94,7 +94,7 @@ html {
 .seven_five {
   display: block;
   width: 1400px;
-  height: 100px;
+  height: 75px;
   margin:0;
   border:0;
   padding:0;
@@ -102,7 +102,7 @@ html {
 .one_seven_five {
   display: block;
   width: 1400px;
-  height: 180px;
+  height: 135px;
   margin:0;
   border:0;
   padding:0;

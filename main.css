@@ -137,15 +137,15 @@ html {
 }
 .flush{
   display: inline-block;
-  margin: auto;
+  margin-left: 250px;
 }
 .glass_city{
   display: inline-block;
-  margin: auto;
+  margin-left: 1000px;
 }
 .bezos{
   display: inline-block;
-  margin: auto;
+  margin-left: 1250;
 }
 
 

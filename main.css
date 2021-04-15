@@ -78,7 +78,7 @@ html {
 .one {
   display: block;
   width: 1400px;
-  height: 114px;
+  height: 80px;
   margin:0;
   border:0;
   padding:0;
@@ -86,7 +86,7 @@ html {
 .one_five {
   display: block;
   width: 1400px;
-  height: 171px;
+  height: 120px;
   margin:0;
   border:0;
   padding:0;
@@ -94,7 +94,7 @@ html {
 .seven_five {
   display: block;
   width: 1400px;
-  height: 86px;
+  height: 100px;
   margin:0;
   border:0;
   padding:0;
@@ -102,7 +102,7 @@ html {
 .one_seven_five {
   display: block;
   width: 1400px;
-  height: 200px;
+  height: 180px;
   margin:0;
   border:0;
   padding:0;
@@ -110,134 +110,173 @@ html {
 
 .icecliff{
   display: inline-block;
+  margin: auto;
 }
 .glass_city{
   display: inline-block;
+  margin: auto;
 }
 
 
 .wave{
   display: inline-block;
+    margin: auto;
 }
 .tp_pyramid{
   display: inline-block;
+  margin: auto;
 }
 .flush{
   display: inline-block;
+  margin: auto;
 }
 .bezos{
   display: inline-block;
+  margin: auto;
 }
 
 .shore{
   display: inline-block;
+  margin: auto;
 }
 .towel{
   display: inline-block;
+  margin: auto;
 }
 .festival_lights{
   display: inline-block;
+  margin: auto;
 }
 .air_show{
   display: inline-block;
+  margin: auto;
 }
 .opera{
   display: inline-block;
+  margin: auto;
 }
 .puzzles{
   display: inline-block;
+  margin: auto;
 }
 .towers{
   display: inline-block;
+  margin: auto;
 }
 
 
 .gateway{
   display: inline-block;
+  margin: auto;
 }
 .trooper{
   display: inline-block;
+  margin: auto;
 }   
 .circus{
   display: inline-block;
+  margin: auto;
 }
 .residents_past{
   display: inline-block;
+  margin: auto;
 }
 
 .hallway{
   display: inline-block;
+  margin: auto;
 }
 .rainforest{
   display: inline-block;
+  margin: auto;
 }
 .mosaic{
   display: inline-block;
+  margin: auto;
 }
 
 
 .hills{
   display: inline-block;
+  margin: auto;
 }
 .icecave{
   display: inline-block;
+  margin: auto;
 }
 .lint{
   display: inline-block;
+  margin: auto;
 }
 
 .laundry{
   display: inline-block;
+  margin: auto;
 }
 .gold_pyramid{
   display: inline-block;
+  margin: auto;
 }
 .desert{
   display: inline-block;
+  margin: auto;
 }
 .whirlpool{
   display: inline-block;
+  margin: auto;
 }
 
 .yurts{
   display: inline-block;
+  margin: auto;
 }
 .cathedral{
   display: inline-block;
+  margin: auto;
 }
 .jewel{
   display: inline-block;
+  margin: auto;
 }
 .pots{
   display: inline-block;
+  margin: auto;
 }
 .museum{
   display: inline-block;
+  margin: auto;
 }
 
 
 .balloons{
   display: inline-block;
+  margin: auto;
 }
 .library{
   display: inline-block;
+  margin: auto;
 }
 .spice{
   display: inline-block;
+  margin: auto;
 }
 
 
 .lady{
   display: inline-block;
+  margin: auto;
 }
 .bags{
   display: inline-block;
+  margin: auto;
 }
 .dirty_dishes{
   display: inline-block;
+  margin: auto;
 }
 
 
 .discarded_papers{
   display: inline-block;
+  margin: auto;
 }

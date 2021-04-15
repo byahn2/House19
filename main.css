@@ -129,7 +129,8 @@ html {
 
 .wave{
   display: inline-block;
-    margin: auto;
+  margin-left: 70px;
+  margin-top: 5px;
 }
 .tp_pyramid{
   display: inline-block;

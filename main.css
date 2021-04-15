@@ -108,13 +108,10 @@ html {
   margin:0;
   border:0;
   padding:0;
+  border: 1px solid green;
 }
 
 .icecliff{
-  display: inline-block;
-  margin: auto;
-}
-.glass_city{
   display: inline-block;
   margin: auto;
 }
@@ -132,10 +129,15 @@ html {
   display: inline-block;
   margin: auto;
 }
+.glass_city{
+  display: inline-block;
+  margin: auto;
+}
 .bezos{
   display: inline-block;
   margin: auto;
 }
+
 
 .shore{
   display: inline-block;
@@ -184,6 +186,7 @@ html {
   margin: auto;
 }
 
+
 .hallway{
   display: inline-block;
   margin: auto;
@@ -202,20 +205,11 @@ html {
   display: inline-block;
   margin: auto;
 }
-.icecave{
-  display: inline-block;
-  margin: auto;
-}
-.lint{
-  display: inline-block;
-  margin: auto;
-}
-
-.laundry{
-  display: inline-block;
-  margin: auto;
-}
 .gold_pyramid{
+  display: inline-block;
+  margin: auto;
+}
+.icecave{
   display: inline-block;
   margin: auto;
 }
@@ -227,7 +221,16 @@ html {
   display: inline-block;
   margin: auto;
 }
+.lint{
+  display: inline-block;
+  margin: auto;
+}
 
+
+.laundry{
+  display: inline-block;
+  margin: auto;
+}
 .yurts{
   display: inline-block;
   margin: auto;

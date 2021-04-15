@@ -133,7 +133,7 @@ html {
   margin-top: 5px;
 }
 .tp_pyramid{
-  margin-left: 105px;
+  margin-left: 200px;
 }
 .flush{
   display: inline-block;
@@ -296,5 +296,5 @@ html {
 
 .discarded_papers{
   display: inline-block;
-  margin-left: 400px;
+  margin-left: 430px;
 }

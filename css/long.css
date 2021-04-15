@@ -95,6 +95,7 @@ header {
 }
 
 .return {
+  clear: both;
   display: block;
   width: 90%;
   margin: 1%;

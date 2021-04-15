@@ -129,12 +129,11 @@ html {
 
 .wave{
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 75px;
   margin-top: 5px;
 }
 .tp_pyramid{
-  margin-left: 30px;
-  margin-top: 7px;
+  margin-left: 105px;
 }
 .flush{
   display: inline-block;

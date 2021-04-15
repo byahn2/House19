@@ -268,33 +268,33 @@ html {
 
 .balloons{
   display: inline-block;
-  margin: auto;
+  margin-left: 325px;
 }
 .library{
   display: inline-block;
-  margin: auto;
+  margin: 40px;
 }
 .spice{
   display: inline-block;
-  margin: auto;
+  margin: 500px;
 }
 
 
 .lady{
   display: inline-block;
-  margin: auto;
+  margin-left: 600px;
 }
 .bags{
   display: inline-block;
-  margin: auto;
+  margin-left: 200px;
 }
 .dirty_dishes{
   display: inline-block;
-  margin: auto;
+  margin-left: 100px;
 }
 
 
 .discarded_papers{
   display: inline-block;
-  margin-left: 430px;
+  margin-left: 420px;
 }

@@ -122,7 +122,8 @@ html {
 
 .icecliff{
   display: inline-block;
-  margin: auto;
+  margin-top: 10px;
+  margin-left: 200px;
 }
 
 

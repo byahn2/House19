@@ -90,6 +90,7 @@ html {
   margin:0;
   border:0;
   padding:0;
+  border: 1px solid green;
 }
 .seven_five {
   display: block;
@@ -98,6 +99,7 @@ html {
   margin:0;
   border:0;
   padding:0;
+  border: 1px solid green;
 }
 .one_seven_five {
   display: block;

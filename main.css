@@ -74,3 +74,146 @@ html {
   background-position: 10px 10px;
   background-repeat: no-repeat;
 }
+
+.one {
+  display: block;
+  width: 1400px;
+  height: 114px;
+  margin:0;
+  border:0;
+  padding:0;
+}
+
+.icecliff{
+  display: inline-block;
+}
+.glass_city{
+  display: inline-block;
+}
+
+
+.wave{
+  display: inline-block;
+}
+.tp_pyramid{
+  display: inline-block;
+}
+.flush{
+  display: inline-block;
+}
+.bezos{
+  display: inline-block;
+}
+
+.shore{
+  display: inline-block;
+}
+.towel{
+  display: inline-block;
+}
+.festival_lights{
+  display: inline-block;
+}
+.air_show{
+  display: inline-block;
+}
+.opera{
+  display: inline-block;
+}
+.puzzles{
+  display: inline-block;
+}
+.towers{
+  display: inline-block;
+}
+
+
+.gateway{
+  display: inline-block;
+}
+.trooper{
+  display: inline-block;
+}   
+.circus{
+  display: inline-block;
+}
+.residents_past{
+  display: inline-block;
+}
+
+.hallway{
+  display: inline-block;
+}
+.rainforest{
+  display: inline-block;
+}
+.mosaic{
+  display: inline-block;
+}
+
+
+.hills{
+  display: inline-block;
+}
+.icecave{
+  display: inline-block;
+}
+.lint{
+  display: inline-block;
+}
+
+.laundry{
+  display: inline-block;
+}
+.gold_pyramid{
+  display: inline-block;
+}
+.desert{
+  display: inline-block;
+}
+.whirlpool{
+  display: inline-block;
+}
+
+.yurts{
+  display: inline-block;
+}
+.cathedral{
+  display: inline-block;
+}
+.jewel{
+  display: inline-block;
+}
+.pots{
+  display: inline-block;
+}
+.museum{
+  display: inline-block;
+}
+
+
+.balloons{
+  display: inline-block;
+}
+.library{
+  display: inline-block;
+}
+.spice{
+  display: inline-block;
+}
+
+
+.lady{
+  display: inline-block;
+}
+.bags{
+  display: inline-block;
+}
+.dirty_dishes{
+  display: inline-block;
+}
+
+
+.discarded_papers{
+  display: inline-block;
+}

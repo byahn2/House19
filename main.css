@@ -104,7 +104,16 @@ html {
 .one_seven_five {
   display: block;
   width: 1400px;
-  height: 135px;
+  height: 105px;
+  margin:0;
+  border:0;
+  padding:0;
+  border: 1px solid green;
+}
+.two {
+  display: block;
+  width: 1400px;
+  height: 120px;
   margin:0;
   border:0;
   padding:0;

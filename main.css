@@ -83,6 +83,30 @@ html {
   border:0;
   padding:0;
 }
+.one_five {
+  display: block;
+  width: 1400px;
+  height: 171px;
+  margin:0;
+  border:0;
+  padding:0;
+}
+.seven_five {
+  display: block;
+  width: 1400px;
+  height: 86px;
+  margin:0;
+  border:0;
+  padding:0;
+}
+.one_seven_five {
+  display: block;
+  width: 1400px;
+  height: 200px;
+  margin:0;
+  border:0;
+  padding:0;
+}
 
 .icecliff{
   display: inline-block;

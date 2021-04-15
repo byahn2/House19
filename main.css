@@ -133,6 +133,7 @@ html {
   margin-left: 75px;
 }
 .tp_pyramid{
+  display: inline-block;
   margin-left: 75px;
 }
 .flush{
@@ -159,11 +160,11 @@ html {
 }
 .festival_lights{
   display: inline-block;
-  margin-left: 250px;
+  margin-left: 220px;
 }
 .air_show{
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 100px;
 }
 .opera{
   display: inline-block;
@@ -189,7 +190,7 @@ html {
 }   
 .circus{
   display: inline-block;
-  margin: 300px;
+  margin-left: 300px;
 }
 .residents_past{
   display: inline-block;
@@ -199,15 +200,15 @@ html {
 
 .hallway{
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 320px;
 }
 .rainforest{
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 280px;
 }
 .mosaic{
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 115px;
 }
 
 
@@ -221,19 +222,19 @@ html {
 }
 .icecave{
   display: inline-block;
-  margin: 200px;
+  margin-left: 200px;
 }
 .desert{
   display: inline-block;
-  margin: 150px;
+  margin-left: 150px;
 }
 .whirlpool{
   display: inline-block;
-  margin: 150px;
+  margin-left: 150px;
 }
 .lint{
   display: inline-block;
-  margin: 100px;
+  margin-left: 100px;
 }
 
 
@@ -244,7 +245,6 @@ html {
 .yurts{
   display: inline-block;
   margin-left: 80px;
-  margin-top: 30px;
 }
 .cathedral{
   display: inline-block;
@@ -256,7 +256,7 @@ html {
 }
 .pots{
   display: inline-block;
-  margin-left: 400px;
+  margin-left: 390px;
 }
 .museum{
   display: inline-block;
@@ -266,21 +266,21 @@ html {
 
 .balloons{
   display: inline-block;
-  margin-left: 325px;
+  margin-left: 315px;
 }
 .library{
   display: inline-block;
-  margin: 40px;
+  margin-left: 50px;
 }
 .spice{
   display: inline-block;
-  margin: 50px;
+  margin-left: 500px;
 }
 
 
 .lady{
   display: inline-block;
-  margin-left: 580px;
+  margin-left: 575px;
 }
 .bags{
   display: inline-block;
@@ -288,11 +288,11 @@ html {
 }
 .dirty_dishes{
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 110px;
 }
 
 
 .discarded_papers{
   display: inline-block;
-  margin-left: 420px;
+  margin-left: 425px;
 }

@@ -75,12 +75,12 @@ html {
   background-repeat: no-repeat;
 }
 
-.one {
+.one {  
   display: block;
   width: 1400px;
   height: 80px;
   margin:0;
-  border:0;
+  border: 1px solid green;
   padding:0;
 }
 .one_five {

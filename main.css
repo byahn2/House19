@@ -152,11 +152,13 @@ html {
 
 .shore{
   display: inline-block;
-  margin: auto;
+  margin-left: 40px;
+  margin-top: 10px;
 }
 .towel{
   display: inline-block;
-  margin: auto;
+  margin-left: 260px;
+  margin-top: 15px;
 }
 .festival_lights{
   display: inline-block;
@@ -182,7 +184,7 @@ html {
 
 .gateway{
   display: inline-block;
-  margin: auto;
+  margin-left: 150px;
 }
 .trooper{
   display: inline-block;
@@ -200,7 +202,7 @@ html {
 
 .hallway{
   display: inline-block;
-  margin: auto;
+  margin-left: 400px;
 }
 .rainforest{
   display: inline-block;
@@ -214,7 +216,7 @@ html {
 
 .hills{
   display: inline-block;
-  margin: auto;
+  margin-left: 350px;
 }
 .gold_pyramid{
   display: inline-block;
@@ -240,11 +242,12 @@ html {
 
 .laundry{
   display: inline-block;
-  margin: auto;
+  margin-left: 130px;
 }
 .yurts{
   display: inline-block;
-  margin: auto;
+  margin-left: 70px;
+  margin-top: 30px;
 }
 .cathedral{
   display: inline-block;
@@ -294,5 +297,5 @@ html {
 
 .discarded_papers{
   display: inline-block;
-  margin: auto;
+  margin-left: 400px;
 }

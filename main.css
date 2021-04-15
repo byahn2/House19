@@ -125,20 +125,24 @@ html {
 .icecliff{
   display: inline-block;
   margin-left: 200px;
+  margin-top: 5px;
 }
 
 
 .wave{
   display: inline-block;
-  margin-left: 75px;
+  margin-left: 80px;
+  margin-top: 3px;
 }
 .tp_pyramid{
   display: inline-block;
-  margin-left: 75px;
+  margin-left: 70px;
+  margin-top: 10px;
 }
 .flush{
   display: inline-block;
   margin-left: 30px;
+  margin-top: 1px;
 }
 .glass_city{
   display: inline-block;
@@ -146,7 +150,7 @@ html {
 }
 .bezos{
   display: inline-block;
-  margin-left: 500px;
+  margin-left: 450px;
 }
 
 
@@ -156,27 +160,32 @@ html {
 }
 .towel{
   display: inline-block;
-  margin-left: 200px;
+  margin-left: 210px;
+  margin-top: 30px;
 }
 .festival_lights{
   display: inline-block;
-  margin-left: 220px;
+  margin-left: 200px;
+  margin-top: 25px
 }
 .air_show{
   display: inline-block;
   margin-left: 100px;
+  margin-top: 15px;
 }
 .opera{
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 45px;
 }
 .puzzles{
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 50px;
+  margin-top: 20px;
 }
 .towers{
   display: inline-block;
   margin-left: 10px;
+  margin-top: 25px;
 }
 
 
@@ -186,91 +195,104 @@ html {
 }
 .trooper{
   display: inline-block;
-  margin-left: 400px;
+  margin-left: 415px;
 }   
 .circus{
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 260px;
+  margin-top: 5px;
 }
 .residents_past{
   display: inline-block;
   margin-left: 300px;
+  margin-top: 5px;
 }
-
 
 .hallway{
   display: inline-block;
-  margin-left: 320px;
+  margin-left: 325px;
 }
 .rainforest{
   display: inline-block;
-  margin-left: 280px;
+  margin-left: 275px;
 }
 .mosaic{
   display: inline-block;
-  margin-left: 115px;
+  margin-left: 125px;
+  margin-top: 10px;
 }
 
 
 .hills{
   display: inline-block;
-  margin-left: 340px;
+  margin-left: 335px;
 }
 .gold_pyramid{
   display: inline-block;
-  margin-left: 300px;
+  margin-left: 315px;
+  margin-top: 10px;
 }
 .icecave{
   display: inline-block;
-  margin-left: 200px;
+  margin-left: 190px;
+  margin-top: 5px;
 }
 .desert{
   display: inline-block;
-  margin-left: 150px;
+  margin-left: 70px;
 }
 .whirlpool{
   display: inline-block;
-  margin-left: 150px;
+  margin-left: 70px;
+  margin-top: 10px;
 }
 .lint{
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 50px;
 }
 
 
 .laundry{
   display: inline-block;
-  margin-left: 130px;
+  margin-left: 140px;
+  margin-top: 10px;
 }
 .yurts{
   display: inline-block;
-  margin-left: 80px;
+  margin-left: 75px;
+  margin-top: 5px;
 }
 .cathedral{
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 25px;
+  margin-top: 15px;
 }
 .jewel{
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 25px;
+  margin-top: 5px;
 }
 .pots{
   display: inline-block;
-  margin-left: 390px;
+  margin-left: 395px;
+  margin-top: 20px;
 }
 .museum{
   display: inline-block;
   margin-left: 20px;
+  margin-top: 15px;
 }
 
 
 .balloons{
   display: inline-block;
-  margin-left: 315px;
+  margin-left: 310px;
+  margin-top: 5px;
 }
 .library{
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 55px;
+  margin-top: 15px;
 }
 .spice{
   display: inline-block;
@@ -280,11 +302,12 @@ html {
 
 .lady{
   display: inline-block;
-  margin-left: 575px;
+  margin-left: 570px;
 }
 .bags{
   display: inline-block;
-  margin-left: 180px;
+  margin-left: 185px;
+  margin-top: 10px;
 }
 .dirty_dishes{
   display: inline-block;
@@ -294,5 +317,6 @@ html {
 
 .discarded_papers{
   display: inline-block;
-  margin-left: 425px;
+  margin-left: 400px;
+  margin-top: 5px;
 }

@@ -118,9 +118,13 @@ header {
 .description {
   font-size: 22px;
   line-height: 30px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
+.ref {
+  font-size: 26px;
+  font-weight: 600;
+}
 
 .btn {
   display: block;

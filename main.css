@@ -288,16 +288,17 @@ html {
 .balloons{
   display: inline-block;
   margin-left: 310px;
-  padding-top: 3px;
+  border: 1px solid blue;
 }
 .library{
   display: inline-block;
   margin-left: 45px;
-  padding-top: 5px;
+  border: 1px solid blue;
 }
 .spice{
   display: inline-block;
   margin-left: 470px;
+  border: 1px solid blue;
 }
 
 

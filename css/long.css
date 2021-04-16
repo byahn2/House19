@@ -60,6 +60,14 @@ table {
           box-sizing: border-box;
 }
 
+html {
+  font-family: 'Alegreya', serif;
+  background-image: url("content/background.png");
+  background-size: 100%;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+}
+
 header {
   display: block;
   width: 100%;
@@ -99,10 +107,6 @@ header {
   display: block;
   width: 90%;
   margin: 1%;
-}
-
-html {
-  font-family: 'Alegreya', serif;
 }
 
 header {

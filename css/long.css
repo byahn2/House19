@@ -122,6 +122,11 @@ header {
   font-weight: 300;
 }
 
+.ref {
+  font-size: 26px;
+  font-weight: 600;
+}
+
 
 .btn {
   display: block;

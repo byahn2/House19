@@ -293,6 +293,7 @@ html {
 .library{
   display: inline-block;
   margin-left: 45px;
+  margin-top: 30px;
   border: 1px solid blue;
 }
 .spice{

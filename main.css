@@ -62,6 +62,10 @@ table {
 
 html {
   font-family: 'Alegreya', serif;
+  background-image: url("content/background.png");
+  background-size: 100%;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
 }
 
 .map {

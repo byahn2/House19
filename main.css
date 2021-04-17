@@ -70,7 +70,7 @@ html {
 
 .map {
   display: block;
-  margin: 1% auto;
+  margin: 10px auto;
   width: 1400px;
   height: 787px;
   background-image: url("content/map2_300.jpg");

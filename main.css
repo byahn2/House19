@@ -158,9 +158,15 @@ html {
   display: inline-block;
   margin-left: 80px;
 }
+.opera{
+  display: inline-block;
+  margin-left: 520px;
+}
+
+
 .towel{
   display: inline-block;
-  margin-left: 220px;
+  margin-left: 300px;
 }
 .festival_lights{
   display: inline-block;
@@ -170,13 +176,9 @@ html {
   display: inline-block;
   margin-left: 120px;
 }
-.opera{
-  display: inline-block;
-  margin-left: 60px;
-}
 .puzzles{
   display: inline-block;
-  margin-left: 85px;
+  margin-left: 145px;
 }
 .towers{
   display: inline-block;

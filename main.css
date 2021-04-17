@@ -83,45 +83,16 @@ html {
   display: block;
   width: 1400px;
   height: 60px;
-  margin:0;
-  border: 1px solid green;
+  margin:1px;
   padding:0;
-}
-.one_five {
-  display: block;
-  width: 1400px;
-  height: 90px;
-  margin:0;
-  border:0;
-  padding:0;
-  border: 1px solid green;
 }
 .seven_five {
   display: block;
   width: 1400px;
   height: 45px;
-  margin:0;
+  margin:1px;
   border:0;
   padding:0;
-  border: 1px solid green;
-}
-.one_seven_five {
-  display: block;
-  width: 1400px;
-  height: 105px;
-  margin:0;
-  border:0;
-  padding:0;
-  border: 1px solid green;
-}
-.two {
-  display: block;
-  width: 1400px;
-  height: 120px;
-  margin:0;
-  border:0;
-  padding:0;
-  border: 1px solid green;
 }
 
 /* https://www.w3schools.com/css/css3_images.asp */
@@ -183,7 +154,7 @@ html {
 }
 .towers{
   display: inline-block;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
 
@@ -236,7 +207,7 @@ html {
 }
 .whirlpool{
   display: inline-block;
-  margin-left: 105px;
+  margin-left: 110px;
 }
 .lint{
   display: inline-block;
@@ -246,12 +217,12 @@ html {
 
 .laundry{
   display: inline-block;
-  margin-left: 155px;
-  margin-top: 10px;
+  margin-left: 150px;
+  margin-top: 5px;
 }
 .gold_pyramid{
   display: inline-block;
-  margin-left: 545px;
+  margin-left: 540px;
 }
 
 
@@ -270,7 +241,7 @@ html {
 }
 .pots{
   display: inline-block;
-  margin-left: 370px;
+  margin-left: 375px;
 }
 .museum{
   display: inline-block;
@@ -280,7 +251,7 @@ html {
 
 .balloons{
   display: inline-block;
-  margin-left: 320px;
+  margin-left: 325px;
   margin-top: 25px;
 }
 .spice{

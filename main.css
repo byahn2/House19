@@ -183,7 +183,7 @@ html {
 }
 .towers{
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 
@@ -194,7 +194,7 @@ html {
 }
 .trooper{
   display: inline-block;
-  margin-left: 450px;
+  margin-left: 455px;
 }   
 .circus{
   display: inline-block;
@@ -202,7 +202,7 @@ html {
 }
 .residents_past{
   display: inline-block;
-  margin-left: 315px;
+  margin-left: 310px;
 }
 
 
@@ -226,13 +226,9 @@ html {
   margin-left: 335px;
   margin-top: 10px;
 }
-.gold_pyramid{
-  display: inline-block;
-  margin-left: 345px;
-}
 .icecave{
   display: inline-block;
-  margin-left: 155px;
+  margin-left: 530px;
 }
 .desert{
   display: inline-block;
@@ -240,11 +236,11 @@ html {
 }
 .whirlpool{
   display: inline-block;
-  margin-left: 100px;
+  margin-left: 105px;
 }
 .lint{
   display: inline-block;
-  margin-left: 40px;
+  margin-left: 45px;
 }
 
 
@@ -253,12 +249,16 @@ html {
   margin-left: 155px;
   margin-top: 10px;
 }
+.gold_pyramid{
+  display: inline-block;
+  margin-left: 545px;
+}
 
 
 .yurts{
   display: inline-block;
   margin-left: 235px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 .cathedral{
   display: inline-block;
@@ -281,13 +281,11 @@ html {
 .balloons{
   display: inline-block;
   margin-left: 320px;
-  margin-top: 20px;
-  border: 1px solid blue;
+  margin-top: 25px;
 }
 .spice{
   display: inline-block;
   margin-left: 540px;
-  border: 1px solid red;
 }
 
 
@@ -295,7 +293,6 @@ html {
   display: inline-block;
   margin-left: 385px;
   margin-top: 10px;
-  border: 1px solid blue;
 }
 
 

@@ -246,9 +246,11 @@ html {
   display: inline-block;
   margin-left: 160px;
 }
+
+
 .yurts{
   display: inline-block;
-  margin-left: 55px;
+  margin-left: 215px;
 }
 .cathedral{
   display: inline-block;
@@ -273,15 +275,17 @@ html {
   margin-left: 310px;
   border: 1px solid blue;
 }
-.library{
-  display: inline-block;
-  margin-left: 45px;
-  border: 1px solid blue;
-}
 .spice{
   display: inline-block;
-  margin-left: 470px;
+  margin-left: 515px;
   border: 1px solid red;
+}
+
+
+.library{
+  display: inline-block;
+  margin-left: 355px;
+  border: 1px solid blue;
 }
 
 

@@ -100,10 +100,6 @@ header {
   width: 65%;
   margin-left: 1%;
   float: right;
-  background-image: url("../content/background.png");
-  background-size: 100%;
-  background-position: 0px 0px;
-  background-repeat: no-repeat;
 }
 
 .return {

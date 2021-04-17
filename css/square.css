@@ -121,9 +121,9 @@ header {
   font-weight: 300;
 }
 
-.ref {
-  font-size: 26px;
+.ref:link, .ref:visited, .ref:hover, .ref:active {
   font-weight: 600;
+  color: black;
 }
 
 .btn {

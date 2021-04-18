@@ -71,10 +71,10 @@ html {
 .map {
   display: block;
   margin: 10px auto;
-  width: 1400px;
-  height: 787px;
+  width: 1410px;
+  height: 797px;
   background-image: url("content/map2_300.jpg");
-  background-size: 1400px 787px;
+  background-size: 1410px 797px;
   background-position: 10px 10px;
   background-repeat: no-repeat;
 }

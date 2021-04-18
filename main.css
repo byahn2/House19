@@ -94,6 +94,14 @@ html {
   border:0;
   padding:0;
 }
+.buttons {  
+  display: block;
+  width: 1400px;
+  height: 60px;
+  margin:1px;
+  padding:0;
+  padding-left: 1000px;
+}
 
 /* https://www.w3schools.com/css/css3_images.asp */
 

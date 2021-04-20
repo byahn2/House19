@@ -121,6 +121,7 @@ html {
 }
 .icecliff:hover {
   background-image: url('content/green_pin.png');
+  background-size: 30px 30px;
 }
 
 

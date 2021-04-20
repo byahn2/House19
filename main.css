@@ -117,6 +117,9 @@ html {
   display: inline-block;
   margin-left: 200px;
 }
+.icecliff:hover {
+  background-image: url('green_pin.png');
+}
 
 
 .wave{

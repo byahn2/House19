@@ -102,6 +102,10 @@ header {
   float: left;
 }
 
+.caption {
+  font-style: italic;
+}
+
 .return {
   clear: both;
   display: block;

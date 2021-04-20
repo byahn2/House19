@@ -111,6 +111,10 @@ header {
   color: black;
 }
 
+.caption {
+  font-style: italic;
+}
+
 .btn {
   display: block;
   width: 20%;

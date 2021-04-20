@@ -121,6 +121,10 @@ header {
   font-weight: 400;
 }
 
+.caption {
+  font-style: italic;
+}
+
 .ref:link, .ref:visited, .ref:hover, .ref:active {
   font-weight: 600;
   color: black;

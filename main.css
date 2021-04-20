@@ -63,7 +63,8 @@ table {
 html {
   font-family: 'Alegreya', serif;
   background-image: url("content/canvas.png");
-  background-width: 3000px;
+  background-width: 8000px;
+  background-height: 6000px;
   background-position: 0px 0px;
   background-repeat: no-repeat;
 }

@@ -66,6 +66,7 @@ html {
   background-size: 5000px 6000px;
   background-position: 0px 0px;
   background-repeat: no-repeat;
+  text-decoration: none;
 }
 
 .map {
@@ -125,7 +126,7 @@ html {
 }
 .icecliff:hover {
   background-image: url('content/green_pin.png');
-  background-size: 33px 30px;
+  background-size: 40px 30px;
 }
 
 

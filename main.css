@@ -80,7 +80,7 @@ html {
   background-repeat: no-repeat;
 }
 
-.one {  
+.one {
   display: block;
   width: 1400px;
   height: 60px;
@@ -104,7 +104,7 @@ html {
   text-align: left;
 }
 
-.buttons {  
+.buttons {
   display: block;
   width: 1400px;
   height: 60px;
@@ -122,7 +122,6 @@ html {
   margin-left: 200px;
   background: transparent url('content/pin.png') center top no-repeat;
   background-size: 30px 30px;
-  text-decoration: none;
 }
 .icecliff:hover {
   background-image: url('content/green_pin.png');
@@ -134,66 +133,126 @@ html {
   display: inline-block;
   margin-left: 90px;
   margin-top: 5px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.wave:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .tp_pyramid{
   display: inline-block;
   margin-left: 60px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.tp_pyramid:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .flush{
   display: inline-block;
   margin-left: 35px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.flush:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .glass_city{
   display: inline-block;
   margin-left: 510px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.glass_city:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .bezos{
   display: inline-block;
   margin-left: 420px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.bezos:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
 .shore{
   display: inline-block;
   margin-left: 80px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.shore:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .opera{
   display: inline-block;
   margin-left: 685px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.opera:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
 .towel{
   display: inline-block;
   margin-left: 270px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.towel:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .festival_lights{
   display: inline-block;
   margin-left: 245px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.festival_lights:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .air_show{
   display: inline-block;
   margin-left: 170px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.air_show:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .puzzles{
   display: inline-block;
   margin-left: 125px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.puzzles:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .towers{
   display: inline-block;
   margin-left: 20px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.towers:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -201,22 +260,42 @@ html {
   display: inline-block;
   margin-left: 140px;
   margin-top: 15px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.gateway:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .trooper{
   display: inline-block;
   margin-left: 455px;
-  text-decoration: none;
-}   
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.trooper:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
+}
 .circus{
   display: inline-block;
   margin-left: 220px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.circus:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .residents_past{
   display: inline-block;
   margin-left: 310px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.residents_past:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -224,17 +303,32 @@ html {
   display: inline-block;
   margin-left: 325px;
   margin-top: 10px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.hallway:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .rainforest{
   display: inline-block;
   margin-left: 275px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.rainforest:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .mosaic{
   display: inline-block;
   margin-left: 123px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.mosaic:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -242,27 +336,52 @@ html {
   display: inline-block;
   margin-left: 335px;
   margin-top: 10px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.hills:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .icecave{
   display: inline-block;
   margin-left: 530px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.icecave:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .desert{
   display: inline-block;
   margin-left: 75px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.desert:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .whirlpool{
   display: inline-block;
-  margin-left: 110px;
-  text-decoration: none;
+  margin-left: 105px;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.whirlpool:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .lint{
   display: inline-block;
   margin-left: 45px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.lint:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -270,12 +389,22 @@ html {
   display: inline-block;
   margin-left: 150px;
   margin-top: 5px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.laundry:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .gold_pyramid{
   display: inline-block;
   margin-left: 540px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.gold_pyramid:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -283,27 +412,52 @@ html {
   display: inline-block;
   margin-left: 235px;
   margin-top: 15px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.yurts:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .cathedral{
   display: inline-block;
   margin-left: 30px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.cathedral:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .jewel{
   display: inline-block;
   margin-left: 25px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.jewel:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .pots{
   display: inline-block;
   margin-left: 375px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.pots:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .museum{
   display: inline-block;
   margin-left: 15px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.museum:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -311,12 +465,22 @@ html {
   display: inline-block;
   margin-left: 325px;
   margin-top: 25px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.balloons:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .spice{
   display: inline-block;
   margin-left: 540px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.spice:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -324,7 +488,12 @@ html {
   display: inline-block;
   margin-left: 385px;
   margin-top: 10px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.library:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -332,17 +501,32 @@ html {
   display: inline-block;
   margin-left: 565px;
   margin-top: 15px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.lady:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .bags{
   display: inline-block;
   margin-left: 190px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.bags:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 .dirty_dishes{
   display: inline-block;
   margin-left: 115px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.dirty_dishes:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 
@@ -350,7 +534,12 @@ html {
   display: inline-block;
   margin-left: 415px;
   margin-top: 15px;
-  text-decoration: none;
+  background: transparent url('content/pin.png') center top no-repeat;
+  background-size: 30px 30px;
+}
+.discarded_papers:hover {
+  background-image: url('content/green_pin.png');
+  background-size: 40px 30px;
 }
 
 .btn {
@@ -368,4 +557,8 @@ html {
   text-decoration: none;
   background-color: black;
   color: white;
+}
+
+a {
+  text-decoration: none;
 }
